@@ -1,5 +1,4 @@
 #!/bin/python3
-
 # Task
 # Given an integer, , perform the following conditional actions:
 # If  is odd, print Weird
@@ -26,10 +25,6 @@
 # Explanation 1
 
 #  and  is even, so it is not weird.
-
-
-
-
 import math
 import os
 import random
